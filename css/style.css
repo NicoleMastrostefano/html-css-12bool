@@ -1,0 +1,14 @@
+.container{
+  text-align: center;
+  line-height: 200px;
+  background-color: pink;
+}
+
+.container .col-6 div {
+  background-color:lightcoral;
+  border: 1px solid white;
+}
+
+#padding {
+  padding: 10px;
+}
