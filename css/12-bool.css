@@ -3,9 +3,9 @@
   min-height: 100px;
 } */
 
-.debug [class*='col-'] {
+/* .debug [class*='col-'] {
   border: 1px solid black;
-}
+} */
 
 * {
   box-sizing: border-box;

@@ -4,6 +4,10 @@
   background-color: pink;
 }
 
+.container [class*='col-']{
+  border: 1px solid black;
+}
+
 .container .col-6 div {
   background-color:lightcoral;
   border: 1px solid white;
